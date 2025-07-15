@@ -87,8 +87,6 @@ The notebook includes:
 
 - Accuracy and loss curves over epochs
 - Final accuracy score on the test dataset
-- Confusion matrix and classification report
-- Visualizations of predicted vs actual labels
 
 ---
 
